@@ -1,9 +1,8 @@
 
 ### 🌱 열정으로 배웁시다!!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbals0445&show_icons=true&theme=dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbals0445&show_icons=true&theme=dark&count_private=true&hide_rank=true&custom_title=History)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbals0445&layout=compact&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbals0445&layout=compact&show_icons=true&theme=dark&count_private=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rbals0445/rbals0445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
