@@ -1,5 +1,5 @@
 
-### 🌱 하기싫을때는 열정 열정 열정!!!
+### 🌱 열정으로 배웁시다!!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbals0445&show_icons=true&theme=dark&count_private=true)
 <br>
