@@ -1,5 +1,6 @@
-
 ### 🌱 열정으로 배웁시다!!
+- `모던 자바스크립트 Deep Dive`의 예시 오류를 발견하고 pr을 올려 수정했습니다! (자랑)
+  - 2022.10.14 이후 인쇄판부터 적용 예정!! [PR Link](https://github.com/wikibook/mjs/pull/3)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbals0445&show_icons=true&theme=dark&count_private=true&hide_rank=true&custom_title=History)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbals0445&layout=compact&show_icons=true&theme=dark&count_private=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
