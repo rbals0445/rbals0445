@@ -3,15 +3,15 @@
 - `모던 자바스크립트 Deep Dive`의 예시 오류를 발견하고 pr을 올려 수정했습니다! (자랑)
   - 2022.10.14 이후 인쇄판부터 적용 예정!! [PR Link](https://github.com/wikibook/mjs/pull/3)
 
-### Tech Stack
+### 📝 Tech Stack
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
 - 기술은 배우면 됩니다..
 
-### Email
+### 💬 Email
 - rbals0445@naver.com
    
-### Blog
+### 📈 Blog
 <a href="https://blog.naver.com/rbals0445" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://rbals0445.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF7F00?style=flat-square&logo=Tistory&logoColor=white"/></a>
   
