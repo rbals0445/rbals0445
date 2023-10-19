@@ -12,8 +12,9 @@
 rbals0445@naver.com
    
 ### 📈 Blog
-<a href="https://blog.naver.com/rbals0445" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://rbals0445.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF7F00?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://blog.naver.com/rbals0445" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+
   
 
   
