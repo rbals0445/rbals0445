@@ -4,12 +4,12 @@
   - 2022.10.14 이후 인쇄판부터 적용 예정!! [PR Link](https://github.com/wikibook/mjs/pull/3)
 
 ### 📝 Tech Stack
-
+<p>기술은 배우면 뭐든지 됩니다!</p>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-- 기술은 배우면 됩니다..
+
 
 ### 💬 Email
-- rbals0445@naver.com
+rbals0445@naver.com
    
 ### 📈 Blog
 <a href="https://blog.naver.com/rbals0445" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
