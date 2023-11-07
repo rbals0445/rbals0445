@@ -15,7 +15,10 @@ rbals0445@naver.com
 <a href="https://rbals0445.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF7F00?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://blog.naver.com/rbals0445" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
-  
+### 💡 Article (야호!)
+<a href="https://techblog.lycorp.co.jp/ko/check-mp4-file-has-audio-using-filereader-in-front-end" target="_blank">LINE Engineering</a>
+
+
 
   
 <!--
